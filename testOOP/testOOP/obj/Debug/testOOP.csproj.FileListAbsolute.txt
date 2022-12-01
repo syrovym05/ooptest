@@ -1,0 +1,10 @@
+G:\PRG\testOOP\testOOP\bin\Debug\testOOP.exe.config
+G:\PRG\testOOP\testOOP\bin\Debug\testOOP.exe
+G:\PRG\testOOP\testOOP\bin\Debug\testOOP.pdb
+G:\PRG\testOOP\testOOP\obj\Debug\testOOP.csprojAssemblyReference.cache
+G:\PRG\testOOP\testOOP\obj\Debug\testOOP.Properties.Resources.resources
+G:\PRG\testOOP\testOOP\obj\Debug\testOOP.csproj.GenerateResource.cache
+G:\PRG\testOOP\testOOP\obj\Debug\testOOP.csproj.CoreCompileInputs.cache
+G:\PRG\testOOP\testOOP\obj\Debug\testOOP.exe
+G:\PRG\testOOP\testOOP\obj\Debug\testOOP.pdb
+G:\PRG\testOOP\testOOP\obj\Debug\testOOP.Form1.resources
